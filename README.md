@@ -1,0 +1,2 @@
+# TryHackMe-Journal
+Coming Soon
